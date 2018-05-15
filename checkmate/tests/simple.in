@@ -1,0 +1,45 @@
+read
+****Q***
+K*******
+******Q*
+**Q*****
+********
+********
+*****Q**
+********
+print
+cdr 0 1
+cdr 0 8
+cdr 9 18
+cdr 1 15
+cdr 15 22
+cdr 15 24
+cdr 28 35
+cdr 24 31
+capture
+checkmate
+read
+*Q******
+K*******
+******Q*
+**Q*****
+********
+********
+*****Q**
+********
+print
+capture
+checkmate
+read
+***Q****
+*K******
+******Q*
+**Q*****
+********
+********
+*****Q**
+********
+print
+capture
+checkmate
+quit
