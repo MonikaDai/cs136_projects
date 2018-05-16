@@ -51,7 +51,7 @@ For example, suppose that you have 2 permanent blue gems and 2 temporary green g
 
 A player wins the game as soon as they have 15 prestige points.
 
-  * [main.c](./the%20game%20of%20splender/main.c)
+  * [main.c](./the_game_of_splender/main.c)
   ***
   
   
