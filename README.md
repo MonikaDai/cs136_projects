@@ -1,6 +1,5 @@
 # cs136_projects
 ### Here are the codes of some projects:
-***
 
 ### CheckMate
 
@@ -10,3 +9,4 @@ Empty spaces will be denoted with an asterisk * and spaces with either a king or
 
   * [checkmate.c](checkmate/checkmate.c)
   * [main.c](./checkmate/test-checkmate.c)
+  ***
