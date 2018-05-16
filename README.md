@@ -1,7 +1,7 @@
 # cs136_projects
 ### Here are the codes of some projects:
 
-### CheckMate
+### Checkmate
 
 A chessboard is an 8 by 8 grid of squares which we will think of as a length 64 one dimensional character array. The board should be read such that the first 8 characters of the array represents the first row, the characters in the next 8 positions represent the second row and so on until the final row.
 
@@ -9,4 +9,20 @@ Empty spaces will be denoted with an asterisk * and spaces with either a king or
 
   * [checkmate.c](checkmate/checkmate.c)
   * [main.c](./checkmate/test-checkmate.c)
+  ***
+  
+  ### Sudoku
+  
+A valid solution of a Sudoku puzzle must satisfy three constraints.
+
+Row constraint: each integer from 1 to 9 appears exactly once in every row.
+Column constraint: each integer from 1 to 9 appears exactly once in every column.
+Box constraint: each integer from 1 to 9 appears exactly once in every box.
+
+The module stores a Sudoku puzzle in a struct with two arrays. When a puzzle is read in, it is stored in both the puzzle and the sol arrays. As you attempt to solve the puzzle, you can modify the sol array until it contains a valid solution.
+
+The rows and columns of a Sudoku puzzle are zero indexed. Each cell is represented by (row,col). For example, for the following puzzle from Wikipedia, cell (0,0) has the value 5, cell (1,3) has the value 1, and cell (0, 2) has the value 0. An empty cell has a value of 0 in it.
+
+  * [sudoku.c](sudoku/sudoku.c)
+  * [main.c](./sudoku/play_sudoku.c)
   ***
