@@ -1,6 +1,7 @@
 # cs136_projects
 ### Here are the codes of some projects:
 
+
 ### CheckMate
 
 A chessboard is an 8 by 8 grid of squares which we will think of as a length 64 one dimensional character array. The board should be read such that the first 8 characters of the array represents the first row, the characters in the next 8 positions represent the second row and so on until the final row.
