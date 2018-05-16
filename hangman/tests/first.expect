@@ -1,0 +1,194 @@
+Please enter a valid game number between 1 and 1000.
+0000000000000
+0           0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+****
+The letter T is not in the word.
+Watch out! You only have 5 more guesses left before your man is hung!
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+****
+The letter R is not in the word.
+Watch out! You only have 4 more guesses left before your man is hung!
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0           2
+0           2
+0           2
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+****
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0           2
+0           2
+0           2
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+*A**
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0           2
+0           2
+0           2
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+*AN*
+The letter D is not in the word.
+Watch out! You only have 3 more guesses left before your man is hung!
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0          32
+0         3 2
+0        3  2
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+*AN*
+You have already guessed the letter T. Please enter another letter.
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0          32
+0         3 2
+0        3  2
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+*AN*
+The letter W is not in the word.
+Watch out! You only have 2 more guesses left before your man is hung!
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0          324
+0         3 2 4
+0        3  2  4
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+*AN*
+The letter C is not in the word.
+Watch out! You only have 1 more guesses left before your man is hung!
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0          324
+0         3 2 4
+0        3  2  4
+0          5
+0         5
+0        5
+0       5
+0
+0
+Please enter a letter.
+*AN*
+The character @ is not a letter.
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0          324
+0         3 2 4
+0        3  2  4
+0          5
+0         5
+0        5
+0       5
+0
+0
+Please enter a letter.
+*AN*
+The letter P is not in the word.
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0          324
+0         3 2 4
+0        3  2  4
+0          5 6
+0         5   6
+0        5     6
+0       5       6
+0
+0
+Game over. The correct word was MANY.
+Do you want to play again? (Y for yes, N for no).
+Error, invalid response.
+Do you want to play again? (Y for yes, N for no).
+Error, invalid response.
+Do you want to play again? (Y for yes, N for no).

@@ -1,0 +1,299 @@
+Please enter a valid game number between 1 and 1000.
+0000000000000
+0           0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+****** ******* ******
+0000000000000
+0           0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+S***** ******* ******
+0000000000000
+0           0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+S*C*** *****C* ******
+0000000000000
+0           0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+S*C*** P****C* ******
+0000000000000
+0           0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+SEC*** PE**EC* ****E*
+You have already guessed the letter E. Please enter another letter.
+0000000000000
+0           0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+SEC*** PE**EC* ****E*
+You have already guessed the letter P. Please enter another letter.
+0000000000000
+0           0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+SEC*** PE**EC* ****E*
+0000000000000
+0           0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+SEC*** PE**EC* ***BE*
+The letter L is not in the word.
+Watch out! You only have 5 more guesses left before your man is hung!
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+SEC*** PE**EC* ***BE*
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+SECO** PE**EC* ***BE*
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+SECON* PE**EC* N**BE*
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+SECOND PE**EC* N**BE*
+The letter V is not in the word.
+Watch out! You only have 4 more guesses left before your man is hung!
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0           2
+0           2
+0           2
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+SECOND PE**EC* N**BE*
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0           2
+0           2
+0           2
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+SECOND PER*EC* N**BER
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0           2
+0           2
+0           2
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+SECOND PERFEC* N**BER
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0           2
+0           2
+0           2
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+SECOND PERFECT N**BER
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0           2
+0           2
+0           2
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+SECOND PERFECT N*MBER
+The letter K is not in the word.
+Watch out! You only have 3 more guesses left before your man is hung!
+0000000000000
+0           0
+0           1
+0          1 1
+0           1
+0          32
+0         3 2
+0        3  2
+0
+0
+0
+0
+0
+0
+Please enter a letter.
+SECOND PERFECT N*MBER
+You win! The correct word was SECOND PERFECT NUMBER.
+Do you want to play again? (Y for yes, N for no).
