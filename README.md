@@ -34,7 +34,7 @@ The user will ask to play a game, a number N from 1 to max_word corresponding to
 See this website for a demonstration:
 http://www.playhangman.com/PH.asp?g=olympicsW&l=B
 
-  * [hangman.c](hangman/hangman.c)
+  * [hangman.c](./hangman/hangman.c)
   ***
   
 ### The Game of Splender
