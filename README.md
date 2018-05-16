@@ -1,4 +1,4 @@
 # cs136_projects
 Here are some codes of projects
 
-* CheckMate
+* CheckMate [checkmate.c](checkmate/checkmate.c)
