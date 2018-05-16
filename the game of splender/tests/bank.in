@@ -1,0 +1,6 @@
+status game
+collect 1 1 1 1 0
+status game
+build 1 1 1 1 0 0 0 0 2 1
+status game
+bye
