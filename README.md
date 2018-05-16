@@ -11,7 +11,7 @@ Empty spaces will be denoted with an asterisk * and spaces with either a king or
   * [main.c](./checkmate/test-checkmate.c)
   ***
   
-  ### Sudoku
+### Sudoku
   
 A valid solution of a Sudoku puzzle must satisfy three constraints.
 
@@ -26,3 +26,11 @@ The rows and columns of a Sudoku puzzle are zero indexed. Each cell is represent
   * [sudoku.c](sudoku/sudoku.c)
   * [main.c](./sudoku/play_sudoku.c)
   ***
+  
+  ### Hangman
+  
+The user will ask to play a game, a number N from 1 to max_word corresponding to the word entered in position N. If an invalid number is entered, an error message should be displayed and the user should be asked to enter a valid number. You will get your hidden word from our words module whose interface file is provided. The game will then print out a blank hangman based on the provided function print_hangman, prompt the user to enter a letter and a series of asterisks representing the word or phrase we are trying to guess. We call this series of asterisks a board.
+
+See [this website] for a demonstration. (http://www.playhangman.com/PH.asp?g=olympicsW&l=B)
+  
+  
